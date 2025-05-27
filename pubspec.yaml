@@ -1,0 +1,32 @@
+name: tsf
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_sound: ^9.28.0
+  tflite_flutter: ^0.11.0
+  audio_waveforms: ^1.0.5
+  permission_handler: ^11.3.1
+  path_provider: ^2.0.11
+
+  record: ^6.0.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/vad.tflite
+    - assets/yamnet_label_list.txt

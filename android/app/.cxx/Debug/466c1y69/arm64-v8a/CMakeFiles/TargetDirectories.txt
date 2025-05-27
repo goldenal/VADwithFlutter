@@ -1,0 +1,2 @@
+/Users/olalekanwaheed/Documents/tsf/android/app/.cxx/Debug/466c1y69/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/olalekanwaheed/Documents/tsf/android/app/.cxx/Debug/466c1y69/arm64-v8a/CMakeFiles/rebuild_cache.dir
